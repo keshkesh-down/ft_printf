@@ -14,8 +14,8 @@ Basics, requested from subject:
 
 `make clean` to delete `*.o` files.
 
-`make fclean` to delete `*.o` and `libft.a` files.
+`make fclean` to delete `*.o` and `libftprintf.a` files.
 
-`make re` to delete `*.o` and `libft.a` files, and, to compile without bonus functions.
+`make re` to delete `*.o` and `libftprintf.a` files, and, to compile without bonus functions.
 
 # Mark: 100/125
